@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-id="MLS1" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 1
+http://51.79.17.152/soc1/index.m3u8
+
+#EXTINF:-1 tvg-id="MLS2" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 2
+http://51.79.17.152/soc2/index.m3u8
+
+#EXTINF:-1 tvg-id="MLS3" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 3
+http://51.79.17.152/soc3/index.m3u8
+
+#EXTINF:-1 tvg-id="MLS4" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 4
+http://51.79.17.152/soc4/index.m3u8
+
+#EXTINF:-1 tvg-id="MLS5" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 5
+http://51.79.17.152/soc5/index.m3u8
+
+#EXTINF:-1 tvg-id="MLS6" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 6
+http://51.79.17.152/soc6/index.m3u8
+
+#EXTINF:-1 tvg-id="MLS7" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 7
+http://51.79.17.152/soc7/index.m3u8
+
+#EXTINF:-1 tvg-id="MLS8" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 8
+http://51.79.17.152/soc8/index.m3u8
+
+#EXTINF:-1 tvg-id="MLS9" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 9
+http://51.79.17.152/soc9/index.m3u8
+
+#EXTINF:-1 tvg-id="MLS10" tvg-logo="https://i.ibb.co/VW1G6jsY/pngwing-com.png" group-title="Sports",MLS 10
+http://51.79.17.152/soc10/index.m3u8
